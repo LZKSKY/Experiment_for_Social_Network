@@ -53,11 +53,11 @@ from gensim.summarization.summarizer import summarize
 ##### 任务
 - **抽取式算法**  (要求手写这部分代码)
 
-![TextRank](assets/text_rank.png)
+![TextRank](./assets/text_rank.png)
 
 - **生成式算法** (了解)
 
-![Encoder-Decoder](assets/encoder-decoder.png)
+![Encoder-Decoder](./assets/encoder-decoder.png)
 
 
 
