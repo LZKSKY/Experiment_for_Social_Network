@@ -23,7 +23,7 @@
 #### File Read 
 
 ```python
-impost os
+import os
 path = './aclImdb/'
 pos_path = path + 'pos/'
 neg_path = path + 'neg/'
