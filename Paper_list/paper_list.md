@@ -182,7 +182,7 @@ Learning Similarity Functions for Topic Detection in Online Reputation Monitorin
 
 cite:47
 
-SIGIR 2014
+from: SIGIR 2014
 
 code: https://github.com/damiano/learning-similarity-functions-ORM 
 
@@ -192,27 +192,27 @@ Modelling Context with User Embeddings for Sarcasm Detection in Social Media
 
 cite:74
 
-CoRR 2016
+from: CoRR 2016
 
 code: https://github.com/rishabhmisra/Sarcasm-Detection-using-NN 
 
 
 
- Fake News Detection on Social Media**:** A Data Mining Perspective
+Fake News Detection on Social Media: A Data Mining Perspective
 
 cite:396
 
-SIGKDD
+from: SIGKDD
 
 code: https://github.com/KaiDMML/FakeNewsNet 
 
 
 
- Earthquake Shakes Twitter Users: Real-time Event Detection by Social Sensors 
+Earthquake Shakes Twitter Users: Real-time Event Detection by Social Sensors 
 
 cite:4101
 
-WWW 2010
+from: WWW 2010
 
 
 
@@ -220,7 +220,7 @@ WWW 2010
 
 cite:22
 
-CLEF 2013
+from: CLEF 2013
 
 
 
@@ -230,15 +230,23 @@ Joint Topic Modeling for Event Summarization across News and Social Media Stream
 
 cite:86
 
-CIKM 2012
+from: CIKM 2012
 
 
 
- Social context summarization 
+Multimodal Graph-based Event Detection and Summarization in Social Media Streams.
+
+cite:19
+
+from: ACM 2015
+
+
+
+Social context summarization 
 
 cite:108
 
-SIGIR 2011
+from: SIGIR 2011
 
 
 
@@ -246,23 +254,25 @@ SIGIR 2011
 
 cite:98
 
-AAAI 2013
+from: AAAI 2013
 
 
 
- **Abstractive** Document Summarization **with a Graph-Based Attentional Neural Model** 
+ Abstractive Document Summarization with a Graph-Based Attentional Neural Model
 
 cite:94
 
-ACL 2017
+from: ACL 2017
 
 code: https://github.com/tanjiwei/summ 
 
- Personalized time**-aware** tweets summarization 
+
+
+ Personalized time-aware tweets summarization 
 
 cite:80
 
-SIGIR 2013
+from: SIGIR 2013
 
 
 
@@ -270,23 +280,23 @@ SIGIR 2013
 
 cite:19
 
-CIKM2016
+from: CIKM2016
 
 
 
- Time Aware **Knowledge Extraction for Microblog** Summarization **on Twitter** 
+ Time Aware Knowledge Extraction for Microblog Summarization on Twitter
 
 cite:50
 
-CoRR 2015
+from: CoRR 2015
 
 
 
- Structure**-Aware** Review Mining and Summarization 
+ Structure-Aware Review Mining and Summarization 
 
 cite:258
 
-COLING 2010
+from: COLING 2010
 
 
 
@@ -294,9 +304,9 @@ COLING 2010
 
 cite:106
 
-SIGIR 2013
+from: SIGIR 2013
 
-Retweet pre
+
 
 ## Retweet prediction
 
