@@ -234,14 +234,6 @@ CIKM 2012
 
 
 
- TGSum: Build Tweet Guided Multi-Document Summarization Dataset 
-
-cite:24
-
-AAAI 2016
-
-
-
  Social context summarization 
 
 cite:108
