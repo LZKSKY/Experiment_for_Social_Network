@@ -12,7 +12,7 @@ For deadline, ...
 
 
 
-## Community Detection
+## Community detection
 
 1. SLPA: Uncovering Overlapping Communities in Social Networks via A Speaker-listener Interaction Dynamic Process
 
@@ -76,7 +76,7 @@ For deadline, ...
 
 
 
-## social recommender
+## Social-aware recommender
 
 1. Learning to Recommend with Social Trust Ensemble
 
@@ -224,7 +224,7 @@ CLEF 2013
 
 
 
-## summarization in social media(twitter/weibo)
+## Summarization in social media(twitter/weibo)
 
 Joint Topic Modeling for Event Summarization across News and Social Media Streams
 
@@ -402,7 +402,7 @@ site:7
 
 
 
-## tag generation from social media
+## Tag generation from social media
 
 1, Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter
 
