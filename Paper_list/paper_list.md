@@ -2,7 +2,7 @@
 
 Here is a paper list of various works in social media. Some with code implementation, some without. 
 
-You need to **choose one and implement** their model or only baseline for complex task, and write a summarization with **at least 4 pages and 2 column**(双栏四页).
+You need to **choose one paper and implement** their model or only baseline for complex task, and write a summarization with **at least 4 pages and 2 column**(双栏四页).
 
 For template,  we recommend template in 中文信息学报 and welcome others。Word or latex or others.
 
